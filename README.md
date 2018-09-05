@@ -4,6 +4,8 @@ Machine Learning Nano-degree Projects
     *   Python
     *   numpy
     *   Anaconda
+    *   Pandas
+    *   matplotlib
     
 1) First Project [Titanic Survival Exploration](https://github.com/udacity/machine-learning/tree/master/projects/titanic_survival_exploration)
 
